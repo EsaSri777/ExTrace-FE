@@ -26,8 +26,9 @@
     "npm": ">=10.0.0"
   },
   "dependencies": {
-    "@abacritt/angularx-social-login": "^2.5.1",
+    "@abacritt/angularx-social-login": "2.1.0",
     "@angular/animations": "^17.0.0",
+    "@angular/cdk": "^17.0.0",
     "@angular/common": "^17.0.0",
     "@angular/compiler": "^17.0.0",
     "@angular/core": "^17.0.0",
